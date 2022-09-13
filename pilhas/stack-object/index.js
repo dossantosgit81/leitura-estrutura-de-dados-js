@@ -9,7 +9,7 @@ stackObject.push(8);
 console.log(stackObject.toString());
 console.log(Object.getOwnPropertyNames(stackObject))
 console.log(Object.keys(stackObject));
-stackObject.items
+// stackObject.items
 
 let objectSymbols = Object.getOwnPropertySymbols(stackObject);
 console.log(objectSymbols.length);
